@@ -1,0 +1,24 @@
+.container {
+  width: 800px;
+  height: 500px;
+  text-align: center;
+  font-size: 20px;
+  margin: 50px auto 0 auto;
+}
+
+.container .result {
+  width: 300px;
+  height: auto;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.container input {
+  font-size: 20px;
+}
+
+.error {
+  color: red;
+  font-size: 20px;
+}
+/*# sourceMappingURL=main.css.map */
